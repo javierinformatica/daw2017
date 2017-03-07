@@ -42,7 +42,7 @@ public class Calculadra {
 	}
 	
 	public void resta() {
-		System.out.println(this.getX()-this.getY()); 
+		System.out.println("hola"+this.getX()-this.getY()); 
 	}
 
 }
