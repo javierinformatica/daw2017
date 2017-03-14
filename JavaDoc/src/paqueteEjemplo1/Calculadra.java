@@ -9,6 +9,7 @@ package paqueteEjemplo1;
 public class Calculadra {
 	
 	private int x, y;
+	private String nombre= "Javier1";
 
 	/**
 	 * 
