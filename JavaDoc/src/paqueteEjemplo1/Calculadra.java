@@ -38,7 +38,6 @@ public class Calculadra {
 	}
 	
 	public void suma() {
-		System.out.println("CONFLICTO");
 		System.out.println(this.getX()+this.getY()); 
 	}
 	
