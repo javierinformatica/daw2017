@@ -23,7 +23,7 @@ public class Calculadra {
 	}
 
 	public int getX() {
-		return x;
+		return y;
 	}
 
 	public void setX(int x) {
